@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="1cea4379-bfd2-4a1a-a0c6-3134d3ee1add"
+    Name="a9102f69-c96b-4eda-b530-9ce42ba5c536"
     Publisher="CN=kemal"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="1cea4379-bfd2-4a1a-a0c6-3134d3ee1add" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="a9102f69-c96b-4eda-b530-9ce42ba5c536" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Maulwurf-MVA</DisplayName>

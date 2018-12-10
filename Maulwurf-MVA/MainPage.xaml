@@ -9,6 +9,9 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock HorizontalAlignment="Center" Text="Whac-A-Mole" TextWrapping="Wrap" VerticalAlignment="Center"/>
+        <Button x:Name="startButton" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Spiel starten" Click="StartButton_Click"/>
+        </StackPanel>   
     </Grid>
 </Page>

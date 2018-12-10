@@ -26,5 +26,10 @@ namespace Maulwurf_MVA
         {
             this.InitializeComponent();
         }
+
+        private void StartButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(Main_Game));
+        }
     }
 }
